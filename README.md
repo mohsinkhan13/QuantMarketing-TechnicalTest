@@ -5,6 +5,7 @@ To GET all Accounts
 action - GET
 
 /api/account?market=kr
+
 /api/account
 
 To GET account by ID
