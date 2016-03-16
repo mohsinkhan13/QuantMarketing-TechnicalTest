@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantMarketing.Shared", "Qu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantMarketing.Repositories.Tests", "QuantMarketing.Repositories.Tests\QuantMarketing.Repositories.Tests.csproj", "{0F02D85D-E55A-48CA-A1DE-5487AD238FF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantMarketing.Service.Tests", "QuantMarketing.Service.Tests\QuantMarketing.Service.Tests.csproj", "{799E95FD-390D-4255-BC84-F7317D75F379}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0F02D85D-E55A-48CA-A1DE-5487AD238FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F02D85D-E55A-48CA-A1DE-5487AD238FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F02D85D-E55A-48CA-A1DE-5487AD238FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799E95FD-390D-4255-BC84-F7317D75F379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799E95FD-390D-4255-BC84-F7317D75F379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799E95FD-390D-4255-BC84-F7317D75F379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799E95FD-390D-4255-BC84-F7317D75F379}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

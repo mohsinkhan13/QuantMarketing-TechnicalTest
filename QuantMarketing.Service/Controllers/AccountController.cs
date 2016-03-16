@@ -10,6 +10,8 @@ using QuantMarketing.Shared.Models;
 
 namespace QuantMarketing.Service.Controllers
 {
+    //TODO implement async await for actions
+
     public class AccountController : ApiController
     {
         private readonly IUnitOfWork _accountUnitOfWork;
